@@ -1,4 +1,4 @@
-package br.com.easynvest.build
+package br.com.dynamic.build
 
 class Build{
     def call (jenkins) {
