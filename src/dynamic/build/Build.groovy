@@ -1,4 +1,4 @@
-package br.com.dynamic.build
+package dynamic.build
 
 class Build{
     def call (jenkins) {
